@@ -1,6 +1,6 @@
-# FVTT Module Template Repo
+# Circular Token Borders
 
-A template repository for easy creation of new modules.
+Renders token borders as circles, rather than squares or hexes. Currently overrides border regardless of grid type.
 
 ## License
 
