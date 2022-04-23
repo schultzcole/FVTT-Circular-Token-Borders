@@ -1,6 +1,8 @@
 import { libWrapper } from "./lib/shim.js";
 
 Hooks.on("init", () => {
+    CONFIG.Canvas.objectBorderThickness = 10;
+
     libWrapper.register("circular-token-borders", "Token.prototype._refreshBorder", function _circleRefreshBorder() {
         this.border.clear();
         const borderColor = this._getBorderColor();

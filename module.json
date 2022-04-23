@@ -2,7 +2,7 @@
   "name": "circular-token-borders",
   "title": "Circular Token Borders",
   "description": "Renders token borders as circles, rather than squares or hexes",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Cole Schultz (cole#9640)",
   "esmodules": [
     "lib/shim.js",
@@ -12,8 +12,8 @@
   "compatibleCoreVersion": "9",
   "url": "https://github.com/schultzcole/FVTT-Circular-Token-Borders",
   "manifest": "https://raw.githubusercontent.com/schultzcole/FVTT-Circular-Token-Borders/master/module.json",
-  "download": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/archive/1.0.0.zip",
-  "license": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/blob/1.0.0/LICENSE",
-  "readme": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/blob/1.0.0/README.md",
-  "changelog": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/blob/1.0.0/CHANGELOG.md"
+  "download": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/archive/1.1.0.zip",
+  "license": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/blob/1.1.0/LICENSE",
+  "readme": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/blob/1.1.0/README.md",
+  "changelog": "https://github.com/schultzcole/FVTT-Circular-Token-Borders/blob/1.1.0/CHANGELOG.md"
 }
